@@ -67,7 +67,7 @@ def start():
    elif choice == 2: #Multiplicação
     print(firtsvalue, 'x', secondvalue , '=', firtsvalue*secondvalue)
    elif choice == 3: #Divisão
-    print(firtsvalue, '/', secondvalue , '=', firtsvalue+secondvalue)
+    print(firtsvalue, '/', secondvalue , '=', firtsvalue/secondvalue)
    elif choice == 4: # Exponenciacão
     print(firtsvalue, 'ˆ', secondvalue , '=', firtsvalue**secondvalue)
    else:
